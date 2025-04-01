@@ -18,7 +18,6 @@
 <p align="left">
   📩 Email: manar.aljan@gmail.com <br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/manar-aljan-7b61922b7/">manar-aljan</a> <br>
-  🌐 Portfolio: <a href="https://yourwebsite.com">yourwebsite.com</a>
 </p>
 
 
